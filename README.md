@@ -31,4 +31,45 @@ A simple and powerful expense tracker built with **Next.js** and **Tailwind CSS*
 
 ## 📂 Folder Structure
 
+## 🚀 Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/P1-dotcom/expense-tracker-ai.git
+cd expense-tracker-ai
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the server
+
+bash
+Copy
+Edit
+npm run dev
+
+Visit: http://localhost:3000 to use the app
+
+yaml
+Copy
+Edit
+
+Or you can record a 30-second **screen recording** showing the UI and link it in your CV/portfolio.
+
+---
+
+### 💡 Pro Tip: Add Screenshot to GitHub
+
+Add one clean screenshot of the app UI in your GitHub `README.md` like this:
+
+```md
+## 🖼️ Screenshot
+
+![App Screenshot](./public/screenshot.png)
+
+
+
 
