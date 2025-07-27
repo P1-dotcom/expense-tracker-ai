@@ -57,19 +57,5 @@ yaml
 Copy
 Edit
 
-Or you can record a 30-second **screen recording** showing the UI and link it in your CV/portfolio.
-
----
-
-### 💡 Pro Tip: Add Screenshot to GitHub
-
-Add one clean screenshot of the app UI in your GitHub `README.md` like this:
-
-```md
-## 🖼️ Screenshot
-
-![App Screenshot](./public/screenshot.png)
-
-
 
 
