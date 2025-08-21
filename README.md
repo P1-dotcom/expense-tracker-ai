@@ -2,8 +2,6 @@
 
 A simple and powerful expense tracker built with **Next.js** and **Tailwind CSS** that helps users log expenses, manage budgets, and receive smart weekly tips through a lightweight rule-based AI coach. Built as part of my transition into web development from a business analyst background.
 
-> 🔗 **Live Demo**: [https://expense-tracker-ai.vercel.app](https://expense-tracker-ai.vercel.app)
-
 ---
 
 ## ✨ Features
